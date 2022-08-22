@@ -2,7 +2,7 @@
 
 ## [Object Detection]
  * Object detection
-<img src="https://user-images.githubusercontent.com/108512808/185796038-850edb1f-cefd-4795-86f8-22c7a7e6dd39.png" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/108512808/185796038-850edb1f-cefd-4795-86f8-22c7a7e6dd39.png" width="300" height="300">
  
  * YOLO
    * YOLO Theory [docx](https://github.com/chanbyeol01/Study/blob/main/YOLO/YOLO_Theory.docx)
